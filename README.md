@@ -32,12 +32,5 @@ npm run build
 
 To view the data used in this project, make sure to run JSON Server:
 
-1. Install JSON Server (if not already installed):
-
-```sh
-npm install -g json-server
-```sh
-
-```sh
 npm run server
-```
+
