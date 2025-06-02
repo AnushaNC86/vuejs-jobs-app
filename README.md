@@ -1,4 +1,4 @@
-# first-app
+# Jobs App
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -27,3 +27,15 @@ npm run dev
 ```sh
 npm run build
 ```
+
+## Running JSON Server
+
+To view the data used in this project, make sure to run JSON Server:
+
+1. Install JSON Server (if not already installed):
+
+```bash
+npm install -g json-server
+
+```bash
+npm run server
