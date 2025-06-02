@@ -32,5 +32,7 @@ npm run build
 
 To view the data used in this project, make sure to run JSON Server:
 
+```sh
 npm run server
+```
 
